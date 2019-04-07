@@ -82,3 +82,6 @@ enum Option<T>  //T为泛型
 //如果使用 None 而不是 Some，需要告诉 Rust Option<T> 是什么类型的，因为编译器只通过 None 值无法推断出 Some 成员保存的值的类型。
 //当有一个 Some 值时，我们就知道存在一个值，而这个值保存在 Some 中。
 //当有个 None 值时，在某种意义上，它跟空值具有相同的意义：并没有一个有效的值。
+
+
+//from my desktop
