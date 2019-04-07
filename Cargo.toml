@@ -1,0 +1,9 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["nelocage <1784809727@qq.com>"]
+edition = "2018"
+
+[dependencies]
+
+rand="0.3.14"
